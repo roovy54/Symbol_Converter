@@ -1,0 +1,20 @@
+ Steps to use Symbol_Converter:
+
+ -> The JavaCode has already been converted to ByteCode
+ -> Your Job is to
+                  -> clone the repository
+		  -> run the files using the command 'java Main'
+
+ Then a window would open in the input_text field, Write the text to convert 
+ it into proper format. 
+ like, sin(A + B) = sinAcosB + cosAsinB when typed in the input field gets 
+ converted to sin(α + β) = sinαcosβ + cosαsinβ which makes it really coooll!
+	
+ Inorder to access the letter alpha (α) -> type letter A in capital formate
+                              beta  (β) -> B
+                              gamma (γ) -> G
+                              omega (ω) -> W
+                              theta (θ) -> T
+			      pi    (π) -> P
+
+ More features would be added soon!!!

@@ -1,4 +1,3 @@
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -10,7 +9,6 @@ public class another_class extends JFrame{
     private JTextField item2;
     private JTextField item3;
     private JTextField item4;
-
     private JRadioButton pb;
     private JRadioButton bb;
     private JRadioButton ib;
@@ -30,6 +28,7 @@ public class another_class extends JFrame{
         Symbols.put('B', 'β');
         Symbols.put('G', 'γ');
         Symbols.put('W', 'ω');
+        Symbols.put('P', 'π');
         setLayout(new FlowLayout());
         item1 = new JTextField(20);
         item2 = new JTextField("Input text: ",7);
