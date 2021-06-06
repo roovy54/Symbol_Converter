@@ -10,7 +10,7 @@
  like, sin(A + B) = sinAcosB + cosAsinB when typed in the input field gets 
  converted to sin(α + β) = sinαcosβ + cosαsinβ which makes it really coooll!
 	
- Inorder to access the letter alpha (α) -> type letter A in capital formate
+ Inorder to access the letter alpha (α) -> type letter A in capital format
                               beta  (β) -> B
                               gamma (γ) -> G
                               omega (ω) -> W
